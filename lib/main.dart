@@ -34,7 +34,7 @@ class Latihan5 extends StatelessWidget {
             height: 15,
           ),
           Container(
-            child: const Center(child: Text("Saya Widget ditengah")),
+            child: const Center(child: Text("Saya Widget Ditengah")),
           ),
           Container(
             width: double.infinity,
